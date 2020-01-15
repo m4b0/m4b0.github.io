@@ -14,7 +14,8 @@ Information Security - DevOps - System Administration
 
 IT Governance (ITIL 4, COBIT)
 
-Runner 10k, 21k & 42k - Hiking
+Runner 10k, 21k, 42k
+Hiking
 
 Articles:
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
