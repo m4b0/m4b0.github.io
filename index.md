@@ -12,7 +12,7 @@ Certified Information Systems Security Professional (CISSP)
 
 Information Security - DevOps - System Administration
 
-IT Governance (ITIL v4, COBIT)
+IT Governance (ITIL 4, COBIT)
 
 Runner 10k, 21k & 42k - Hiking
 
