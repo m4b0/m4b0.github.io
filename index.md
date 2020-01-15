@@ -2,9 +2,9 @@
 
 ## MARCO BRAVO
 
-### Security, DevOps, and SysAdmin in Montreal, Québec, Canada
+### Security, DevOps, and SysAdmin in Montreal, Québec, Canada :maple_leaf:
 
-Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
+Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/) :cloud:
 
 *"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
 
@@ -14,7 +14,7 @@ Information Security - DevOps - System Administration
 
 IT Governance (ITIL 4, COBIT)
 
-I like running long distances (10k, 21k, 42k) and Hiking
+I like running long distances (10k, 21k, 42k) and Hiking :baseball:
 
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
