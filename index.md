@@ -6,7 +6,7 @@
 
 Working at [ovh.ca](https://ovh.ca)
 
-"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". - Vince Lombardi
+*"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
 
 Certified Information Systems Security Professional (CISSP)
 
