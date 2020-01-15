@@ -17,9 +17,9 @@ IT Governance (ITIL v4, COBIT)
 Runner 10k, 21k & 42k - Hiking
 
 Articles:
-- https://opensource.com/article/18/12/configuration-management-tools
-- https://opensource.com/article/19/4/ansible-procedures
+- [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
+- [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
 
 Contact:
-- https://www.linkedin.com/in/marcobravo/
-- https://twitter.com/marcobravoram
+- [LinkedIn](https://www.linkedin.com/in/marcobravo)
+- [Twitter](https://twitter.com/marcobravoram)
