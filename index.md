@@ -4,7 +4,7 @@
 
 **Security, DevOps, and SysAdmin in Montreal, Québec, Canada**
 
-DevOps at ovh.ca
+Working at ovh.ca[https://ovh.ca]
 
 "Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". - Vince Lombardi
 
