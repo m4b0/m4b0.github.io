@@ -1,8 +1,5 @@
 # Welcome to my pages!
 
-**Test**
+** MARCO BRAVO **
+** Security, DevOps, and SysAdmin in Montreal, Québec, Canada **
 
----
-{{ site.pages }}
-{{ site.time | date: '%y' }}
----
