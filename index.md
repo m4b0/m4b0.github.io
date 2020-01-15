@@ -16,10 +16,12 @@ IT Governance (ITIL 4, COBIT)
 
 I like running long distances (10k, 21k, 42k) and Hiking
 
-Articles:
+Articles
+---
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
 - [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
 
-Contact:
+Contact
+---
 - [LinkedIn](https://www.linkedin.com/in/marcobravo)
 - [Twitter](https://twitter.com/marcobravoram)
