@@ -3,5 +3,6 @@
 **Test**
 
 ---
+{{ site.pages }}
 {{ site.time | date: '%y' }}
 ---
