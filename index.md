@@ -1,8 +1,8 @@
 # Welcome to my pages!
 
-## MARCO BRAVO
+# MARCO BRAVO
 
-### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
+## Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
 Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
@@ -10,11 +10,19 @@ Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
 Certifications
 - Certified Information Systems Security Professional (CISSP)
-- IT Governance (ITIL 4, COBIT)
+- IT Governance (ITIL 4 and COBIT)
+
+Experience
+- Information Security - DevOps - System Administration
+- Payment Card Industry Data Security Standard (PCI DSS)
+- Cloud computing
 
 Interests
-- Information Security - DevOps - System Administration
+- Open source initiatives
 - I like running long distances (10k, 21k, 42k) and Hiking
+
+Mindset
+- If you don't know, ask – if you know, share! ⚾
 
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
