@@ -12,3 +12,15 @@ footer-links:
 permalink: /blog/:year/:month/:day/:title
 twitter:
   username               : marcobravoram
+
+# Site Author
+author:
+  name             : Marco Bravo
+  avatar           : images/sun.png
+  bio              : https://m4b0.github.io/
+  location         : Montreal, QC, Canada
+  employer         : OVHcloud
+  github           : m4b0
+  instagram        :
+  linkedin         : https://www.linkedin.com/in/marcobravo
+  twitter          : marcobravoram
