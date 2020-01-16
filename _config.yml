@@ -12,4 +12,4 @@ footer-links:
 permalink: /blog/:year/:month/:day/:title
 twitter:
   username               : marcobravoram
-author: [Marco Bravo](https://m4b0.github.io/)
+author: &twitter
