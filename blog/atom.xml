@@ -11,7 +11,6 @@ layout: feed
 	<id>http://m4b0.github.io/blog</id>
 	<author>
 		<name>Marco Bravo</name>
-		<email>marcoa.bravo@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
