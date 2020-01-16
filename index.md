@@ -21,9 +21,6 @@ Interests
 - Open source initiatives
 - I like running long distances (10k, 21k, 42k) and Hiking
 
-Mindset
-- *If you don't know, ask – if you know, share! ~ opensource mindset* ⚾
-
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
 - [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
