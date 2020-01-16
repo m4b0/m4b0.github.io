@@ -4,7 +4,7 @@
 
 ### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
-Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
+Working for [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
 *"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
 
