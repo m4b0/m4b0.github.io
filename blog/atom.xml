@@ -11,6 +11,7 @@ layout: feed
 	<id>http://m4b0.github.io/blog</id>
 	<author>
 		<name>Marco Bravo</name>
+		<uri>http://m4b0.github.io/</uri>
 	</author>
 
 	{% for post in site.posts %}
