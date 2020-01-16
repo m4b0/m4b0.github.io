@@ -7,3 +7,4 @@ logo: images/cloud-pinata.jpeg
 show_downloads: false
 google_analytics:
 permalink: /blog/:year/:month/:day/:title
+paginate: 5
