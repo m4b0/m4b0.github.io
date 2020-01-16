@@ -3,5 +3,5 @@ description: Marco Bravo bio
 theme: jekyll-theme-minimal
 encoding: UTF-8
 logo: images/cloud-pinata.jpeg
-show_downloads: true
+show_downloads: false
 google_analytics:
