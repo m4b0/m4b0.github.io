@@ -8,13 +8,13 @@ Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
 *"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
 
-Certified Information Systems Security Professional (CISSP)
+Certifications
+- Certified Information Systems Security Professional (CISSP)
+- IT Governance (ITIL 4, COBIT)
 
-Information Security - DevOps - System Administration
-
-IT Governance (ITIL 4, COBIT)
-
-I like running long distances (10k, 21k, 42k) and Hiking
+Interests
+- Information Security - DevOps - System Administration
+- I like running long distances (10k, 21k, 42k) and Hiking
 
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
