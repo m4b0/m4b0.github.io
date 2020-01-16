@@ -5,3 +5,7 @@ encoding: UTF-8
 logo: images/cloud-pinata.jpeg
 show_downloads: false
 google_analytics:
+# Includes an icon in the footer for each user name you enter
+footer-links:
+  github: m4b0
+  twitter: marcobravoram
