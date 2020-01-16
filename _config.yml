@@ -9,3 +9,4 @@ google_analytics:
 footer-links:
   github: m4b0
   twitter: marcobravoram
+permalink: /blog/:year/:month/:day/:title
