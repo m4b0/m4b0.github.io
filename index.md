@@ -1,8 +1,8 @@
 # Welcome to my pages!
 
-# Marco Bravo
+## Marco Bravo
 
-## Security, DevOps, and SysAdmin in Montréal, Québec, Canada
+### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
 Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
