@@ -7,5 +7,4 @@ in particular information security, development, operations and cloud computing.
 
 You can reach me on Twitter [@marcobravoram](https://twitter.com/marcobravoram). Let's start the conversation.
 
-*If you don't know, ask – if you know, share!
-~ opensource mindset*
+*If you really want to do something, you'll find a way. If you don't, you'll find an excuse. ~ Jim Rohn*
