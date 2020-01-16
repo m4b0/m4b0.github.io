@@ -1,13 +1,9 @@
 title: Marco Bravo
+author: Marco Bravo
 description: If you don’t know, ask – if you know, share! ~ opensource mindset ⚾
 theme: jekyll-theme-minimal
 encoding: UTF-8
 logo: images/cloud-pinata.jpeg
 show_downloads: false
 google_analytics:
-# Includes an icon in the footer for each user name you enter
-footer-links:
-  github: m4b0
-  twitter: marcobravoram
 permalink: /blog/:year/:month/:day/:title
-author: "[Marco Bravo](https://m4b0.github.io/)"
