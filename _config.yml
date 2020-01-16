@@ -6,5 +6,5 @@ encoding: UTF-8
 logo: images/cloud-pinata.jpeg
 show_downloads: false
 google_analytics:
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
 paginate: 5
