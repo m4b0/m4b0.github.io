@@ -2,7 +2,7 @@
 
 ## MARCO BRAVO
 
-### Security, DevOps, and SysAdmin in Montreal, Québec, Canada
+### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
 Working at [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
