@@ -1,6 +1,6 @@
 # Welcome to my pages!
 
-# MARCO BRAVO
+# Marco Bravo
 
 ## Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
