@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ansible in a cloud-native Kubernetes environment?
+title: Ansible in a cloud-native Kubernetes environment
 tags: games research train brain
 date: 2020-01-17
 ---
