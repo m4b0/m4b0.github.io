@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ansible in a cloud-native Kubernetes environment
-tags: games research train brain
+tags: ansible cloud kubernetes automation devops
 date: 2020-01-17
 ---
 
