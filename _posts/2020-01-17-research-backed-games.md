@@ -11,3 +11,5 @@ that researchers have identified as essential for success in daily life, executi
 functions,“ said Jan L. Plass, Paulette Goddard Professor of Digital Media and 
 Learning Sciences at New York University’s Steinhardt School of Culture Education 
 and Human Development and co-creator of the games.
+
+[Full article]()https://www.nyu.edu/about/news-publications/news/2020/january/train-your-brain.html)
