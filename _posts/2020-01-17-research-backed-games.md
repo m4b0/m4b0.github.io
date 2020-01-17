@@ -5,6 +5,8 @@ tags: games research train brain
 date: 2020-01-17
 ---
 
+![User playing Gwakkamolé](https://www.nyu.edu/content/nyu/en/about/news-publications/news/2020/january/train-your-brain/jcr:content/page/image.img.620.high.jpg/1579015436647.jpg)
+
 “Can games actually have positive effects on players? We believe they can, 
 and we designed three games to support learners in developing cognitive skills 
 that researchers have identified as essential for success in daily life, executive 
