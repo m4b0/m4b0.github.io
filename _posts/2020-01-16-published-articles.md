@@ -5,7 +5,7 @@ tags: ansible devops automation configuration
 date: 2020-01-16
 ---
 
-![opensource.com logo](https://opensource.com/sites/all/themes/opensource/logo.svg)
+![opensource.com logo](https://opensource.com/sites/all/themes/opensource/images/footer_logo.svg)
 
 I have articles published in [opensource.com](https://opensource.com/), see the following links:
 
