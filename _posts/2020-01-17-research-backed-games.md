@@ -12,4 +12,9 @@ functions,“ said Jan L. Plass, Paulette Goddard Professor of Digital Media and
 Learning Sciences at New York University’s Steinhardt School of Culture Education 
 and Human Development and co-creator of the games.
 
+The researchers developed three online games: 
+- Gwakkamolé
+- CrushStations
+- All You Can ET
+
 [Full article](https://www.nyu.edu/about/news-publications/news/2020/january/train-your-brain.html)
