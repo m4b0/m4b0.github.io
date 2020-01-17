@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Professors create free research-backed games to train your brain
+title: Free research-backed games to train your brain
 tags: games research train brain
 date: 2020-01-17
 ---
