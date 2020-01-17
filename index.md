@@ -4,6 +4,12 @@
 
 ### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
+Links - [Blog](https://m4b0.github.io/blog) - [About](https://m4b0.github.io/about)
+
+Contact - [LinkedIn](https://www.linkedin.com/in/marcobravo) - - [Twitter](https://twitter.com/marcobravoram)
+
+***
+
 Working for [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
 *"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
@@ -28,11 +34,3 @@ Interests
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
 - [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
-
-Contact
-- [LinkedIn](https://www.linkedin.com/in/marcobravo)
-- [Twitter](https://twitter.com/marcobravoram)
-
-Links
-- [Blog](https://m4b0.github.io/blog)
-- [About](https://m4b0.github.io/about)
