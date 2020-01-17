@@ -13,12 +13,14 @@ Certifications
 - IT Governance (ITIL 4 and COBIT)
 
 Experience
-- Information Security - DevOps - System Administration
+- System Administration
+- Information Security
 - Payment Card Industry Data Security Standard (PCI DSS)
 - Cloud computing
 - Network automation
 
 Interests
+- DevOps
 - Ansible
 - Open source initiatives
 - I like running long distances (10k, 21k, 42k) and Hiking
