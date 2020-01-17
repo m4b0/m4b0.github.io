@@ -11,12 +11,12 @@ date: 2020-01-17
 of your infrastructure automation. Sometimes there are other tools which may more cleanly 
 integrate with your application developers' workflows, or have better support from app vendors.*
 
-![Ansible areas](https://www.ansible.com/hs-fs/hubfs/Images/blog-social/Ansible_cloud-native-venn-diagram.png?width=914&name=Ansible_cloud-native-venn-diagram.png)
-
 Ansible fits into the processes for 
 - Container Builds
 - Cluster Management
 - Application Lifecycles
+
+![Ansible areas](https://www.ansible.com/hs-fs/hubfs/Images/blog-social/Ansible_cloud-native-venn-diagram.png?width=914&name=Ansible_cloud-native-venn-diagram.png)
 
 Kubernetes can’t manage your entire application lifecycle, nor can it bootstrap itself; 
 you should not settle for automating the inside of a Kubernetes cluster while using manual 
