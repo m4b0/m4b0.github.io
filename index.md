@@ -24,9 +24,7 @@ Experience
 - Network automation
 
 Interests
-- DevOps
-- Ansible
-- Open source initiatives
+- DevOps, Ansible, Open source initiatives
 - I like running long distances (10k, 21k, 42k) and Hiking
 
 Articles
