@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When 'math is accessible to any brain,' we can make better choices
+title: 'Math is accessible to any brain' to make better choices
 tags: math social political
 date: 2020-01-21
 ---
