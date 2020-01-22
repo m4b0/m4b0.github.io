@@ -2,7 +2,7 @@
 layout: post
 title: Set up an offline command line dictionary in Fedora
 tags: dictionary linux fedora
-date: 2020-01-20
+date: 2020-01-22
 ---
 
 ![Dictionary image](https://fedoramagazine.org/wp-content/uploads/2019/12/sdcv-816x345.jpg)
