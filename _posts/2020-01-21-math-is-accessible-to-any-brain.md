@@ -16,4 +16,4 @@ the research is suggesting that math is accessible to any brain."
 
 "The key is keeping the student in a zone that they can be confident and think," he said.
 
-[Full articel](https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/when-math-is-accessible-to-any-brain-we-can-make-better-political-social-choices-says-mathematician-1.5426840)
+[Full article](https://www.cbc.ca/radio/thecurrent/the-current-for-jan-21-2020-1.5434328/when-math-is-accessible-to-any-brain-we-can-make-better-political-social-choices-says-mathematician-1.5426840)
