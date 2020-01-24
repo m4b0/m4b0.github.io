@@ -5,7 +5,7 @@ tags: burnout developer
 date: 2020-01-24
 ---
 
-![Opensource.com's 10-year anniversary](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/opensource.com-anniversary-520x292.png?itok=FpzhzMsM)
+![Clock image](https://jaymeedwards.com/wp-content/uploads/2017/09/pexels-photo-210590-e1506783633714.jpeg)
 
 Developer burnout is only a matter of time without a plan.
 
