@@ -9,7 +9,7 @@ date: 2020-01-24
 
 Developer burnout is only a matter of time without a plan.
 
-Sacrificing your health for career progress is only delaying a disaster
+Sacrificing your health for career progress is only delaying a disaster.
 
 Summary:
 1. It's up to you to protect yourself from being pushed too hard.
