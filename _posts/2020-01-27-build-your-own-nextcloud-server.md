@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Build your own cloud with Fedora 31 and Nextcloud Server
+title: Build your own Nextcloud Server with Fedora 31
 tags: fedora nextcloud opensource cloud server
 date: 2020-01-27
 ---
 
-![Build your own NextCloud server image](https://fedoramagazine.org/wp-content/uploads/2020/01/nextcloud-1-816x345.png)
+![Build your own Nextcloud server image](https://fedoramagazine.org/wp-content/uploads/2020/01/nextcloud-1-816x345.png)
 
 [Nextcloud](https://nextcloud.com/) is a software suite for storing and syncing 
 your data across multiple devices. You can learn more about Nextcloud Server’s 
