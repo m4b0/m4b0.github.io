@@ -5,7 +5,7 @@ tags: entropy universe
 date: 2020-01-26
 ---
 
-![Zoomable image of the Milky Way](https://eso.org/public/images/eso1242a/zoomable/)
+![Big bang expansion](https://i0.wp.com/math.ucr.edu/home/baez/physical/big_bang.jpg?zoom=2)
 
 First: what’s the ‘observable Universe’, exactly?
 
