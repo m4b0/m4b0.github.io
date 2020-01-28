@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to calm your monkey mind
-tags: monkey mind calm
+tags: monkey mind calm focus mindfulness
 date: 2020-01-28
 ---
 
