@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 lessons I've learned writing Ansible playbooks
+title: 3 lessons learned writing Ansible playbooks
 tags: opensource ansible playbooks tips
 date: 2020-01-29
 ---
