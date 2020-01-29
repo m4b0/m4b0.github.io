@@ -11,9 +11,9 @@ Jeff Geerling presents 3 lessons he has learned writing Ansible playbooks. See b
 
 The three main takeaways from his experience are:
 
-# Stay organized
-# Test early and often
-# Simplify, optimize
+1. Stay organized
+2. Test early and often
+3. Simplify, optimize
 
 The importance of each lesson I've learned follows in that order, too; it's no use trying 
 to optimize something (point 3) that's already poorly assembled (point 1). Each step builds 
