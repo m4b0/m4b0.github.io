@@ -20,7 +20,7 @@ explains why Alpine makes Python Docker builds 50× slower, and images 2× large
 
 So what should you use?
 
-So as of January 2020, Debian 10 (“Buster”) is a good operating system base:
+As of January 2020, Debian 10 (“Buster”) is a good operating system base:
 
 1. It’s more up-to-date than ubuntu:18.04.
 2. It’s stable, and won’t have significant library changes.
