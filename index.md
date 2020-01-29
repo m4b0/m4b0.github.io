@@ -4,7 +4,7 @@
 
 ### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
-[Home](https://m4b0.github.io/) - [Blog](https://m4b0.github.io/blog) - [About](https://m4b0.github.io/about) - [LinkedIn](https://www.linkedin.com/in/marcobravo) - [Twitter](https://twitter.com/marcobravoram)
+[About](https://m4b0.github.io/about) - [Blog](https://m4b0.github.io/blog) - [LinkedIn](https://www.linkedin.com/in/marcobravo) - [Twitter](https://twitter.com/marcobravoram)
 
 ***
 
