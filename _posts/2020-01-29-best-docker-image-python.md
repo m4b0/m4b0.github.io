@@ -22,8 +22,7 @@ So what should you use?
 
 So as of January 2020, Debian 10 (“Buster”) is a good operating system base:
 
-1. It’s more up-to-date than ubuntu:18.04, though ubuntu:20.04 will take the 
-lead when it’s released in April 2020.
+1. It’s more up-to-date than ubuntu:18.04.
 2. It’s stable, and won’t have significant library changes.
 3. There’s less chances of weird production bugs than Alpine.
 
