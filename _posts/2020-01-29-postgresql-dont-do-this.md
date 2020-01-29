@@ -3,7 +3,7 @@ layout: post
 title: PostgreSQL - Don't Do This
 tags: opensource postgresql tips
 date: 2020-01-29
----f
+---
 
 ![PostgreSQL logo image](https://wiki.postgresql.org/skins/postgresql/slonik.png)
 
