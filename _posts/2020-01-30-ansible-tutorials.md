@@ -12,5 +12,6 @@ Some references to Ansible tutorials
 - [Ansible tutorial - ansible-tuto](https://github.com/leucos/ansible-tuto)
 - [Ansible Quick Start](https://ryaneschinger.com/blog/ansible-quick-start/)
 - [Ansible Tutorial](https://codereviewvideos.com/course/ansible-tutorial)
+- [Ansible Tutorial – Learn Ansible from Experts](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-tutorial/)
 
 [Full article](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html)
