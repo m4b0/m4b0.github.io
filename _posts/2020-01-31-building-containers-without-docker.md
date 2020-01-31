@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building containers without Docker
-tags: openfaas opensource containers
+tags: openfaas opensource containers buildkit docker kaniko oci kubernetes
 date: 2020-01-31
 ---
 
