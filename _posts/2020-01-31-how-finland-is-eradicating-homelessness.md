@@ -2,7 +2,7 @@
 layout: post
 title: How Finland is eradicating homelessness
 tags: human rights
-date: 2020-01-20
+date: 2020-01-31
 ---
 
 ![Appartments image](https://i.cbc.ca/1.4957889.1545584927!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_780/finland-housing-first-homeless-toronto.JPG)
