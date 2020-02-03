@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Troubleshoot Kubernetes with the power of tmux and kubectl
+title: Kubernetes with the power of tmux and kubectl
 tags: kubernetes k8s tmux kubectl
 date: 2020-02-03
 ---
