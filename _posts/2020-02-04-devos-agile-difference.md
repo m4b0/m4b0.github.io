@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DevOps vs Agile: What's the difference?
+title: "DevOps vs Agile: What's the difference?"
 tags: devops agile
 date: 2020-02-04
 ---
