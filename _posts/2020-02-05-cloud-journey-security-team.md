@@ -16,7 +16,7 @@ digital business hype (for good reason). Leadership reinforces this message by
 dedicating resources to what’s become commonly known as the 
 [Cloud Business Office (CBO)](https://www.cloudtp.com/cloud-business-office/).
 
-[Cloud Business Office image](https://cdn.thenewstack.io/media/2020/02/7e217bcf-screen-shot-2020-02-04-at-17.12.47.png)
+![Cloud Business Office image](https://cdn.thenewstack.io/media/2020/02/7e217bcf-screen-shot-2020-02-04-at-17.12.47.png)
 
 Just like other revolutionary technologies before it, the public cloud will 
 eventually become commoditized and not require a dedicated security (or IT) 
@@ -26,7 +26,7 @@ The cloud security strategy document then becomes the organizational North
 Star. Taking the time upfront to get extremely clear on vision and strategy 
 makes for easier decisions down the road.
 
-[DevSecOps image](https://cdn.thenewstack.io/media/2020/02/92030f16-screen-shot-2020-02-04-at-17.14.45.png)
+![DevSecOps image](https://cdn.thenewstack.io/media/2020/02/92030f16-screen-shot-2020-02-04-at-17.14.45.png)
 
 Remember, APIs and 
 [shared responsibility](https://www.paloaltonetworks.com/cyberpedia/cloud-security-is-a-shared-responsibility) 
