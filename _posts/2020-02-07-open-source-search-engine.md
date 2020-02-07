@@ -1,6 +1,6 @@
 ---
 layout: post
-title: an open source search engine
+title: An open source search engine
 tags: search engine opensource
 date: 2020-02-07
 ---
