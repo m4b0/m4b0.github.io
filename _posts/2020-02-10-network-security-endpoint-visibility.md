@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cyber Situational Awareness: Endpoint Visibility
+title: "Cyber Situational Awareness: Endpoint Visibility"
 tags: network security endpoint visibility
 date: 2020-02-10
 ---
