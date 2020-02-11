@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "live demos with shell script"
+title: "Live demos with shell script"
 tags: demo shell script automation
 date: 2020-02-11
 ---
