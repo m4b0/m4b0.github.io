@@ -2,7 +2,7 @@
 layout: post
 title: "The History of Git"
 tags: version control git history
-date: 2020-02-10
+date: 2020-02-11
 ---
 
 ![Design image](https://cdn.welcometothejungle.co/uploads/collection/cover/2661/154883/collection_coder_stories.jpg)
