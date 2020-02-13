@@ -5,7 +5,7 @@ tags: programming developer
 date: 2020-02-13
 ---
 
-![Inputs program outputs image](dhttps://dwheeler.com/secure-programs/program.png)
+![Inputs program outputs image](https://dwheeler.com/secure-programs/program.png)
 
 At first I thought programming just involved telling a computer what to do, this part of 
 programming is relatively easy. After practicing for twenty odd years I reckoned that 
