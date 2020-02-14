@@ -5,7 +5,7 @@ tags: programming developer sysadmin byobu terminal vim
 date: 2020-02-13
 ---
 
-![Programming image]("https://germaniumhq.com/assets/img/posts/2019-02-05-Terminal,-Byobu-and-Vim:-A-Match-Made-in-Heaven.jpg")
+![Programming image](https://images.pexels.com/photos/270557/pexels-photo-270557.jpeg)
 
 if you’re paying attention you noticed that none of these keys overlap. That’s by default.
 
