@@ -18,7 +18,7 @@ in the right panel use some sort of watcher.
 
 And that’s not really possible without Terminal, Byobu, and Vim.
 
-*Article Photo from Pexels: [https://www.pexels.com/photo/blur-business-close-up-code-270557/](https://www.pexels.com/photo/blur-business-close-up-code-270557/*)
+*Article Photo from Pexels: [https://www.pexels.com/photo/blur-business-close-up-code-270557/](https://www.pexels.com/photo/blur-business-close-up-code-270557/)*
 
 References:
 
