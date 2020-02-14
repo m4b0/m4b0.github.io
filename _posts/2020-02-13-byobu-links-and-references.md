@@ -7,7 +7,7 @@ date: 2020-02-13
 
 ![Programming image](https://images.pexels.com/photos/270557/pexels-photo-270557.jpeg)
 
-if you’re paying attention you noticed that none of these keys overlap. That’s by default.
+None of shortcut keys overlap. That’s by default.
 
 So you are able to manage multiple servers with a single connection per server, each connection 
 having multiple shells through byobu (tmux), with each shell in turn capable of editing multiple 
@@ -18,7 +18,7 @@ in the right panel use some sort of watcher.
 
 And that’s not really possible without Terminal, Byobu, and Vim.
 
-*Article Photo from Pexels: https://www.pexels.com/photo/blur-business-close-up-code-270557/*
+*Article Photo from Pexels: [https://www.pexels.com/photo/blur-business-close-up-code-270557/](https://www.pexels.com/photo/blur-business-close-up-code-270557/*)
 
 References:
 
