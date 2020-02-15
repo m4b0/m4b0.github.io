@@ -25,4 +25,6 @@ With result:
 Not After : Apr  3 00:55:19 2020 GMT - gnupg.org
 ```
 
+Reference for [*servername*](https://stackoverflow.com/questions/43785703/using-servername-param-with-openssl-s-client).
+
 [Full article](https://serverfault.com/questions/661978/displaying-a-remote-ssl-certificate-details-using-cli-tools)
