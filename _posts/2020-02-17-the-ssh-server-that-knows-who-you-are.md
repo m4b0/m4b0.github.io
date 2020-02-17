@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The SSH server that knows who you are"
-tags: opensource mesh network wifi
+tags: opensource ssh go golang
 date: 2020-02-17
 ---
 
