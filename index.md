@@ -10,11 +10,11 @@
 
 Working for [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/)
 
+*"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
+
 My passion is all that is related to information technology (IT). I am convinced that 
 information security, development and operations are a day to day work that becomes part 
 of organizational culture.
-
-*"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work". ~ Vince Lombardi*
 
 Certifications
 - Certified Information Systems Security Professional (CISSP)
