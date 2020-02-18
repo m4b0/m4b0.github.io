@@ -27,7 +27,7 @@ they’ve determined to be the best practices. They all try to strike the right 
 decisions for developers versus keeping as much flexibility as possible.
 
 Other resources:
-[OVHcloud managed kubernetes (k8s)](https://www.ovhcloud.com/en-ca/public-cloud/kubernetes/)
-[Platform9](https://platform9.com/managed-kubernetes/)
+- [OVHcloud managed kubernetes (k8s)](https://www.ovhcloud.com/en-ca/public-cloud/kubernetes/)
+- [Platform9](https://platform9.com/managed-kubernetes/)
 
 [Full article](https://thenewstack.io/managed-kubernetes-services-make-k8s-simple-for-platform-teams-and-app-developers/)
