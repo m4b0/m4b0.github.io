@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tech trends for 2020, according to O'Reilly"
+title: "Tech trends for 2020 - according to O'Reilly"
 tags: opensource tech trends
 date: 2020-02-18
 ---
