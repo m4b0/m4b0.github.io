@@ -7,8 +7,7 @@ date: 2020-02-20
 
 ![Golang logo image](https://miro.medium.com/max/1890/1*pT5NLaclavnZQKhiQ_zcqA.png)
 
-Ten (actually eleven) engineering values for writing simple, readable, maintainable Go code. Presented at 
-[GopherCon Israel 2020](http://gophercon.org.il/).
+Ten (actually eleven) engineering values for writing simple, readable, maintainable Go code.
 
 - Each package fulfils a single purpose
 - Handle errors explicitly
