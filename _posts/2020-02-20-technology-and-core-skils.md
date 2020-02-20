@@ -28,4 +28,16 @@ in your organization, you’ll also have to develop
 as soft skills - like communication, adaptability, and 
 [emotional intelligence](https://enterprisersproject.com/tags/emotional-intelligence).
 
+Related article:
+
+[IT talent: Storytelling a core skill for 2020 and beyond](https://enterprisersproject.com/article/2020/1/it-talent-power-storytelling)
+
+Your future as an IT leader depends on your ability to craft and deliver a story - especially 
+around digital transformation. Learn how top CIOs are making this skill central to IT talent strategy.
+
+[Storytelling is a soft skill](Storytelling is a soft skill) many leaders struggle with early on in their career.
+
+*“Tell me a fact, and I will learn. Tell me a truth, and I will believe. But tell me a story, and it 
+will live in my heart forever.”*
+
 [Full article](https://enterprisersproject.com/article/2020/1/it-career-goals-2020-top-skills)
