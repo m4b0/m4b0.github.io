@@ -32,10 +32,10 @@ Related article: [IT talent: Storytelling a core skill for 2020 and beyond](http
 
 > Your future as an IT leader depends on your ability to craft and deliver a story - especially 
 around digital transformation. Learn how top CIOs are making this skill central to IT talent strategy.
-
+> 
 > [Storytelling is a soft skill](https://enterprisersproject.com/article/2019/2/soft-skills-leaders-essentials) 
 many leaders struggle with early on in their career.
-
+> 
 > *“Tell me a fact, and I will learn. Tell me a truth, and I will believe. But tell me a story, and it 
 will live in my heart forever.”*
 
