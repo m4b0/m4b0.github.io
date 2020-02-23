@@ -21,4 +21,6 @@ Ten (actually eleven) engineering values for writing simple, readable, maintaina
 - Moderation is a virtue
 - Maintainability counts
 
+[Original article](https://dave.cheney.net/2020/02/23/the-zen-of-go)
+
 [Full article](https://the-zen-of-go.netlify.com/)
