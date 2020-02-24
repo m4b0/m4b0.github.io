@@ -17,21 +17,21 @@ and data somewhat more secure.
 
 * Collaboration helps cybersecurity
 * Implement Zero Trust to tighten cybersecurity
- * Establish a clear identity and access management strategy that includes [multi-factor authentication](https://www.techrepublic.com/article/fbi-urges-businesses-to-use-biometric-factors-to-mitigate-multi-factor-authentication-risk/) (MFA)
- * Create an up-to-date asset inventory that distinguishes between managed and unmanaged devices  
- * Create a trusted device policy that prompts users to update their devices against measured vulnerabilities  
- * Control user access through a centrally managed policy that identifies and acts upon exceptions
- * Build an architecture and set of processes that enables users to access on-premise and cloud applications
+  * Establish a clear identity and access management strategy that includes [multi-factor authentication](https://www.techrepublic.com/article/fbi-urges-businesses-to-use-biometric-factors-to-mitigate-multi-factor-authentication-risk/) (MFA)
+  * Create an up-to-date asset inventory that distinguishes between managed and unmanaged devices  
+  * Create a trusted device policy that prompts users to update their devices against measured vulnerabilities  
+  * Control user access through a centrally managed policy that identifies and acts upon exceptions
+  * Build an architecture and set of processes that enables users to access on-premise and cloud applications
 * Test your response plan to prepare for cyberattack
-** Review and improve security practices regularly, formally, and strategically over time
-** Regularly review connection activity on the network to ensure that security measures are working as intended
-** Integrate security into the organization's goals and business capabilities
-** Routinely and systematically investigate security incidents
-** Put tools in place to provide feedback about security practices
-** Increase security controls on high-value assets as necessary
-** Integrate security technologies 
-** Keep threat detection and blocking capabilities up to date
-** Make it easy to determine the scope of a compromise, contain it, and remediate 
+  * Review and improve security practices regularly, formally, and strategically over time
+  * Regularly review connection activity on the network to ensure that security measures are working as intended
+  * Integrate security into the organization's goals and business capabilities
+  * Routinely and systematically investigate security incidents
+  * Put tools in place to provide feedback about security practices
+  * Increase security controls on high-value assets as necessary
+  * Integrate security technologies 
+  * Keep threat detection and blocking capabilities up to date
+  * Make it easy to determine the scope of a compromise, contain it, and remediate 
 
 The sixth annual survey included 2,800 IT decision-makers from 13 countries. The research team 
 also spoke with a panel of CISOs to analyze the findings and build the list of 20 considerations 
