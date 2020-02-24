@@ -17,11 +17,11 @@ and data somewhat more secure.
 
 * Collaboration helps cybersecurity
 * Implement Zero Trust to tighten cybersecurity
-** Establish a clear identity and access management strategy that includes [multi-factor authentication](https://www.techrepublic.com/article/fbi-urges-businesses-to-use-biometric-factors-to-mitigate-multi-factor-authentication-risk/) (MFA)
-** Create an up-to-date asset inventory that distinguishes between managed and unmanaged devices  
-** Create a trusted device policy that prompts users to update their devices against measured vulnerabilities  
-** Control user access through a centrally managed policy that identifies and acts upon exceptions
-** Build an architecture and set of processes that enables users to access on-premise and cloud applications
+ * Establish a clear identity and access management strategy that includes [multi-factor authentication](https://www.techrepublic.com/article/fbi-urges-businesses-to-use-biometric-factors-to-mitigate-multi-factor-authentication-risk/) (MFA)
+ * Create an up-to-date asset inventory that distinguishes between managed and unmanaged devices  
+ * Create a trusted device policy that prompts users to update their devices against measured vulnerabilities  
+ * Control user access through a centrally managed policy that identifies and acts upon exceptions
+ * Build an architecture and set of processes that enables users to access on-premise and cloud applications
 * Test your response plan to prepare for cyberattack
 ** Review and improve security practices regularly, formally, and strategically over time
 ** Regularly review connection activity on the network to ensure that security measures are working as intended
