@@ -16,6 +16,7 @@ dynamic nature of security work as well as some best practices to make life a li
 and data somewhat more secure.
 
 * Collaboration helps cybersecurity
+  * Breaking down data and departmental silos has a financial upside. Most network and security teams report close collaboration.
 * Implement Zero Trust to tighten cybersecurity
   * Establish a clear identity and access management strategy that includes [multi-factor authentication](https://www.techrepublic.com/article/fbi-urges-businesses-to-use-biometric-factors-to-mitigate-multi-factor-authentication-risk/) (MFA)
   * Create an up-to-date asset inventory that distinguishes between managed and unmanaged devices  
