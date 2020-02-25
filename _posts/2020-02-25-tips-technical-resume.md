@@ -53,6 +53,7 @@ or do not have the level of attention to detail necessary for the job.
 Ensuring your resume looks up-to-date and appealing is an easy way to make a good first impression.
 
 **Update regularly**
+
 Updating your resume regularly will minimize your stress if you're asked to (or want to) apply for a job, 
 and it will help you create and maintain a more accurate version of yourself. When working on your resume, 
 be forward-thinking and be sure to ask at least three other people to review it for content, spelling, and 
