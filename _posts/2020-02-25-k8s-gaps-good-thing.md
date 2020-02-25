@@ -9,7 +9,7 @@ date: 2020-02-25
 
 Kubernetes allows users to choose from an open ecosystem of application management and infrastructure 
 options and under the stewardship of the Cloud Native Computing Foundation 
-([CNCF](https://www.cncf.io/])), Kubernetes has become the new Linux.
+([CNCF](https://www.cncf.io/)), Kubernetes has become the new Linux.
 
 One of the reasons  Kubernetes has become the de facto choice for container orchestration is because 
 of what it does not offer.
