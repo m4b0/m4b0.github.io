@@ -9,4 +9,4 @@ date: 2020-02-25
 
 ![Sierra Madre Durango image](https://pbs.twimg.com/media/ERn68hgUcAAIK2l?format=jpg&name=medium)
 
-[Full article](https://twitter.com/marcobravoram)
+[Full article](https://twitter.com/marcobravoram/media)
