@@ -68,8 +68,6 @@ DevOps principles
 
 DevOps Lifecycle
 
-![Devops lifecycle image](https://i.pinimg.com/originals/ad/76/84/ad76846a9d54f84e1c2710a1e5931758.png)
-
 * Dev
   * Plan
   * Code
@@ -81,7 +79,16 @@ DevOps Lifecycle
   * Operate
   * Monitor
 
-![Devops image](https://opensource.com/sites/default/files/uploads/devopsprocesses.png)
+![Devops lifecycle image](https://i.pinimg.com/originals/ad/76/84/ad76846a9d54f84e1c2710a1e5931758.png)
+
+Continuous feedback and optimization
+
+Continuous feedback and optimization provide visual evidence for analyzing customer journeys and 
+pinpointing pain areas. Feedback can be enabled for both pre- and post-production phases to maximize 
+value and ensure that even more transactions are successfully completed. This provides immediate 
+visibility into the root cause of customer struggles that affect behavior and impact business.
+
+![Devops feedback image](https://opensource.com/sites/default/files/uploads/devopsprocesses.png)
 
 DevOps is an increasingly popular methodology that aims to connect developers and operators into a 
 cohesive unit. It's uniquely differentiated from traditional IT operations and complements 
