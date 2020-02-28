@@ -37,7 +37,7 @@ stability, and security.
 ([Read more about batch sizes](https://opensource.com/article/19/3/devops-most-important-tech-strategy) 
 and the impact on software delivery.)
 
-DevOps lifecycle
+**DevOps lifecycle**
 
 - Continuous planning
 - Collaborative development
@@ -46,7 +46,7 @@ DevOps lifecycle
 - Continuous monitoring
 - Continuous feedback and optimization
 
-Benefits of DevOps
+**Benefits of DevOps**
 
 - Predictability: DevOps offers a significantly lower failure rate for new releases.
 - Maintainability: It enables effortless recovery in the event of a new release crashing or disabling the application.
@@ -59,14 +59,14 @@ Benefits of DevOps
 - Breaks larger codebase into manageable pieces: DevOps is based on the agile programming method, which supports 
 breaking down larger codebases into smaller, more manageable chunks.
 
-DevOps principles
+**DevOps principles**
 
 - Develop and test against a production-like environment
 - Deploying with repeatable, reliable processes
 - Monitor and validate operational quality
 - Amplify feedback loops
 
-DevOps Lifecycle
+**DevOps Lifecycle**
 
 * Dev
   * Plan
@@ -81,7 +81,7 @@ DevOps Lifecycle
 
 ![Devops lifecycle image](https://i.pinimg.com/originals/ad/76/84/ad76846a9d54f84e1c2710a1e5931758.png)
 
-Continuous feedback and optimization
+**Continuous feedback and optimization**
 
 Continuous feedback and optimization provide visual evidence for analyzing customer journeys and 
 pinpointing pain areas. Feedback can be enabled for both pre- and post-production phases to maximize 
