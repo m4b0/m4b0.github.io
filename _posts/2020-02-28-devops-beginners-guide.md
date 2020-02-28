@@ -76,8 +76,8 @@ DevOps Lifecycle
 * Ops
   * Release
   * Deploy
-  * Operate
   * Monitor
+  * Operate
 
 ![Devops image](https://opensource.com/sites/default/files/uploads/devopsprocesses.png)
 
