@@ -32,7 +32,7 @@ Peter Drucker, management thought leader.*
 When it comes to the cloud, you as the DevOps team have the control. There is however a corollary 
 best known as the 
 [Peter Parker](https://en.wikipedia.org/wiki/Spider-Man) principle, in reference to the iconic 
-fictional character whose alter ego is Spider-Man: *“With great power comes great responsibility.”* 
+fictional character whose alter ego is Spider-Man: **“With great power comes great responsibility.”** 
 The question for DevOps then is what will you do with it?
 
 [Full article](https://thenewstack.io/how-devops-can-save-security/)
