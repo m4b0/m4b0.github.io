@@ -79,6 +79,8 @@ DevOps Lifecycle
   * Operate
   * Monitor
 
+![Devops image](https://opensource.com/sites/default/files/uploads/devopsprocesses.png)
+
 DevOps is an increasingly popular methodology that aims to connect developers and operators into a 
 cohesive unit. It's uniquely differentiated from traditional IT operations and complements 
 (but is not the same as) agile.
