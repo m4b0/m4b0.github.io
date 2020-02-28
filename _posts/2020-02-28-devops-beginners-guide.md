@@ -68,6 +68,8 @@ DevOps principles
 
 DevOps Lifecycle
 
+![Devops lifecycle image](https://i.pinimg.com/originals/ad/76/84/ad76846a9d54f84e1c2710a1e5931758.png)
+
 * Dev
   * Plan
   * Code
@@ -76,8 +78,8 @@ DevOps Lifecycle
 * Ops
   * Release
   * Deploy
-  * Monitor
   * Operate
+  * Monitor
 
 ![Devops image](https://opensource.com/sites/default/files/uploads/devopsprocesses.png)
 
