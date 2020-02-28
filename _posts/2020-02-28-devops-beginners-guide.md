@@ -37,6 +37,9 @@ stability, and security.
 ([Read more about batch sizes](https://opensource.com/article/19/3/devops-most-important-tech-strategy) 
 and the impact on software delivery.)
 
+DevOps is often discussed in relation to other IT practices, notably 
+[agile](https://opensource.com/article/20/2/devops-vs-agile) and waterfall IT.
+
 **DevOps lifecycle**
 
 - Continuous planning
