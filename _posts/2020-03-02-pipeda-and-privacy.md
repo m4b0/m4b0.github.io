@@ -16,6 +16,8 @@ account that shares information regarding privacy and an individual’s rights i
 
 ![Privacy online image](https://pbs.twimg.com/media/ENxSfx5XUAE2zEM?format=png&name=small)
 
+[Printable educational poster](https://www.priv.gc.ca/en/about-the-opc/what-we-do/awareness-campaigns-and-events/privacy-education-for-kids/resources-for-teachers/educational-poster/)
+
 The Personal Information Protection and Electronic Documents Act (PIPEDA). In French, this is 
 “Loi sur la protection des reseignements personnels et les documents électroniques, which entered 
 into law on 13 April 2000. Not only was this act implemented for Canadian consumers to trust e-commerce, 
