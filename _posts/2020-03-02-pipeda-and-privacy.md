@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Is PIPEDA? And How Does It Protect You and Your Privacy?"
+title: "What Is PIPEDA? How Does It Protect Your Privacy?"
 tags: pipeda canada privacy security
 date: 2020-03-02
 ---
