@@ -24,6 +24,8 @@ account that shares information regarding privacy and an individual’s rights i
 4. Protect your privacy with passwords.
 5. Respect your friends’ online footprints too.
 
+**PIPEDA in brief**
+
 The Personal Information Protection and Electronic Documents Act 
 ([PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)). In French, this is 
 “Loi sur la protection des reseignements personnels et les documents électroniques, which entered 
