@@ -14,9 +14,9 @@ about outside of the EU? The Office of the Privacy Commissioner of Canada
 ([Commissariat à la protection de la vie privée du Canada](https://twitter.com/priveeprivacy)) has a twitter 
 account that shares information regarding privacy and an individual’s rights in Canada.
 
-![Privacy online image](https://pbs.twimg.com/media/ENxSfx5XUAE2zEM?format=png&name=small)
-
 [Printable educational poster](https://www.priv.gc.ca/en/about-the-opc/what-we-do/awareness-campaigns-and-events/privacy-education-for-kids/resources-for-teachers/educational-poster/)
+
+![Privacy online image](https://pbs.twimg.com/media/ENxSfx5XUAE2zEM?format=png&name=small)
 
 The Personal Information Protection and Electronic Documents Act (PIPEDA). In French, this is 
 “Loi sur la protection des reseignements personnels et les documents électroniques, which entered 
