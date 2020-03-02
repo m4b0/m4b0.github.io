@@ -18,7 +18,14 @@ account that shares information regarding privacy and an individual’s rights i
 
 ![Privacy online image](https://pbs.twimg.com/media/ENxSfx5XUAE2zEM?format=png&name=small)
 
-The Personal Information Protection and Electronic Documents Act (PIPEDA). In French, this is 
+1. Think before you click!
+2. Remember that things you post may not be private.
+3. Know who your friends are.
+4. Protect your privacy with passwords.
+5. Respect your friends’ online footprints too.
+
+The Personal Information Protection and Electronic Documents Act 
+([PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)). In French, this is 
 “Loi sur la protection des reseignements personnels et les documents électroniques, which entered 
 into law on 13 April 2000. Not only was this act implemented for Canadian consumers to trust e-commerce, 
 but it was also enacted to reassure the EU that Canadian privacy laws protect the personal information of their citizens.
