@@ -2,7 +2,7 @@
 layout: post
 title: "Getting started with the Rust package manager, Cargo"
 tags: opensource rust cargo
-date: 2020-03-02
+date: 2020-03-03
 ---
 
 ![Shipping containers image](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/bus-containers2.png?itok=idd8duC_)
