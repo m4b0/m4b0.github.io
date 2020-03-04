@@ -15,7 +15,7 @@ SetEnvIF X-Forwarded-For "1.1.1.1" AllowIP
 SetEnvIF X-Forwarded-For ^10\. AllowIP
 
 <RequireAny>
-Require env AllowIP
+    Require env AllowIP
 </RequireAny>
 ```
 
