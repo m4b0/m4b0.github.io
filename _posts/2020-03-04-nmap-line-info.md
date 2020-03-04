@@ -17,16 +17,20 @@ The fact is that Nmap does indeed use 1,000 ports for a quick scan, but the oper
 
 To view these one-thousand ports, use the following command:
 
-> $ sudo nmap -sT --top-ports 1000 -v -oG -
-> 
-> # Nmap 7.70 scan initiated Mon Feb  3 12:12:04 2020 as: nmap -sT --top-ports 1000 -v -oG -
-> # Ports scanned: TCP(1000;1,3-4,6-7,9,13,17,19-26,30,32-33,37,42-43,49,53,70,79-85,88-90...
+```
+$ sudo nmap -sT --top-ports 1000 -v -oG -
+
+# Nmap 7.70 scan initiated Mon Feb  3 12:12:04 2020 as: nmap -sT --top-ports 1000 -v -oG -
+# Ports scanned: TCP(1000;1,3-4,6-7,9,13,17,19-26,30,32-33,37,42-43,49,53,70,79-85,88-90...
+```
 
 These are only the top 1,000 TCP ports. If you want to see the corresponding 1,000 UDP ports, use this command:
 
-> $ sudo nmap -sU --top-ports 1000 -v -oG -
-> 
-> # Nmap 7.70 scan initiated Mon Feb  3 12:51:41 2020 as: nmap -sU --top-ports 1000 -v -oG -
-> # Ports scanned: TCP(0;) UDP(1000;2-3,7,9,13,17,19-23,37-38,42,49,53,67-69,80,88,111-113,120,123,135-139,158,161-162,177,192,199,207...
+```
+$ sudo nmap -sU --top-ports 1000 -v -oG -
+
+# Nmap 7.70 scan initiated Mon Feb  3 12:51:41 2020 as: nmap -sU --top-ports 1000 -v -oG -
+# Ports scanned: TCP(0;) UDP(1000;2-3,7,9,13,17,19-23,37-38,42,49,53,67-69,80,88,111-113,120,123,135-139,158,161-162,177,192,199,207...
+```
 
 [Full article](https://www.redhat.com/sysadmin/nmap-info)
