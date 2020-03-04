@@ -11,12 +11,14 @@ When configuring Apache X-Forwarded-For take in consideration the differences fo
 
 Example to allow specific IP addresses (Apache 2.4):
 ```
-SetEnvIF X-Forwarded-For "1.1.1.1" AllowIP
-SetEnvIF X-Forwarded-For ^10\. AllowIP
+<Location "/restricted-path">
+    SetEnvIF X-Forwarded-For "1.1.1.1" AllowIP
+    SetEnvIF X-Forwarded-For ^10\. AllowIP
 
-<RequireAny>
-    Require env AllowIP
-</RequireAny>
+    <RequireAny>
+        Require env AllowIP
+    </RequireAny>
+</Location>
 ```
 
 References:
@@ -25,5 +27,6 @@ References:
 - [Apache Module mod_log_config](http://httpd.apache.org/docs/current/mod/mod_log_config.html)
 - [How do I capture client IP addresses in my ELB access logs?](https://aws.amazon.com/premiumsupport/knowledge-center/elb-capture-client-ip-addresses/)
 - [HOWTO: Log Client IP AND X-Forwarded-For IP in Apache](https://www.techstacks.com/howto/log-client-ip-and-xforwardedfor-ip-in-apache.html)
+- [Block / Allow IP with Apache 2](https://vfac.fr/blog/block-allow-ip-with-apache-2)
 
 [Full article](https://dryja.info/apache2-block-allow-ip-simple-guide/)
