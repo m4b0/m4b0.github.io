@@ -11,8 +11,7 @@ date: 2020-03-05
 
 ## collapsible markdown?
 
-<details>
-<summary>
+<details><summary>
 
 # CLICK ME
 </summary>
