@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "\“Let’s use Kubernetes!\” Now you have 8 problems"
+title: "Let’s use Kubernetes! - Now you have 8 problems"
 tags: kubernetes k8s issues problems
 date: 2020-03-05
 ---
