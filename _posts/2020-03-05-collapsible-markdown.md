@@ -59,6 +59,5 @@ Source code:
 #### yes, even hidden code blocks!
 
   ```python
-  print("hello world!")
-  ```
+  print("hello world!")  ```
 ```
