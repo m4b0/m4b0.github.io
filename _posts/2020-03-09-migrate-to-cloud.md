@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "‘10 Reasons to Migrate to Cloud"
+title: "10 Reasons to Migrate to Cloud"
 tags: cloud migration datacenter
 date: 2020-03-09
 ---
