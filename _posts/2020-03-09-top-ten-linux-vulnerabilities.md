@@ -57,7 +57,7 @@ CVE-2016-5195. According to the bug disclosure, "an unprivileged local user coul
 write access to otherwise read-only memory mappings and thus increase their privileges on the system." 
 [https://dirtycow.ninja/](https://dirtycow.ninja/)
 
-**GHOST**
+# GHOST
 
 ![Ghost image](https://www.datamation.com/imagesvr_ce/2521/10LinuxOpenSourceVulnerabilities_6.jpg)
 
