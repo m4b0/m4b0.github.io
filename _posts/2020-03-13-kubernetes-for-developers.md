@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primer: A Developers Guide to Deploying to Kubernetes"
+title: "Developers Guide to Deploying to Kubernetes"
 tags: developer kubernetes k8s deploy
 date: 2020-03-13
 ---
