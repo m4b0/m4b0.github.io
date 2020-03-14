@@ -19,7 +19,7 @@ multiple regions. But be warned, doing so comes with additional complexity cause
 your data between multiple regions.
 
 Notes:
-- Calculating for multiple regions, the result will be around 99.98% for expected availability.
+- Calculating for multiple regions, the result will be around **99.98%** for expected availability.
 
 References:
 - [How do you calculate the compound Service Level Agreement (SLA) for cloud services?](https://devops.stackexchange.com/questions/711/how-do-you-calculate-the-compound-service-level-agreement-sla-for-cloud-servic)
