@@ -14,4 +14,8 @@ the expected availability of most of the architectures on AWS.
 
 ![Calculation image](https://cloudonaut.io/images/2019/01/aws-sla-ec2.png)
 
+Are you looking for a way to increase the expected availability of your architecture? Deploy your workload to 
+multiple regions. But be warned, doing so comes with additional complexity caused by the need to synchronize 
+your data between multiple regions.
+
 [Full article](https://cloudonaut.io/aws-sla-are-you-able-to-keep-your-availability-promise/)
