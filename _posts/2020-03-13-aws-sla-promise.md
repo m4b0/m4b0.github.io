@@ -24,4 +24,8 @@ Notes:
 References:
 - [How do you calculate the compound Service Level Agreement (SLA) for cloud services?](https://devops.stackexchange.com/questions/711/how-do-you-calculate-the-compound-service-level-agreement-sla-for-cloud-servic)
 
+Calculating it in parallel is a little more complicated as we do need to consider what the percentage unavailability will be:
+
+![Multiple regions image](https://i.stack.imgur.com/dWKLI.png)
+
 [Full article](https://cloudonaut.io/aws-sla-are-you-able-to-keep-your-availability-promise/)
