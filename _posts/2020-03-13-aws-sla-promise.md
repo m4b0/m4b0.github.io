@@ -18,4 +18,10 @@ Are you looking for a way to increase the expected availability of your architec
 multiple regions. But be warned, doing so comes with additional complexity caused by the need to synchronize 
 your data between multiple regions.
 
+Notes:
+- Calculating for multiple regions, the result will be around 99.98% for expected availability.
+
+References:
+- [How do you calculate the compound Service Level Agreement (SLA) for cloud services?](https://devops.stackexchange.com/questions/711/how-do-you-calculate-the-compound-service-level-agreement-sla-for-cloud-servic)
+
 [Full article](https://cloudonaut.io/aws-sla-are-you-able-to-keep-your-availability-promise/)
