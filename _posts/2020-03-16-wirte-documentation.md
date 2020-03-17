@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Write effective documentation for your open source project"
+title: "Write effective documentation"
 tags: write documentation opensource
 date: 2020-03-16
 ---
