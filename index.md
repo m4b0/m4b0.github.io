@@ -35,3 +35,4 @@ Interests
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
 - [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
+- [From sysadmin to DevOps](https://www.redhat.com/sysadmin/sysadmin-devops)
