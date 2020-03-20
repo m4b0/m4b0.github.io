@@ -12,6 +12,15 @@ management tool. If you've worked with containers long enough, you know that sec
 role in the deployment of your apps and services. Without locking down those containers, havoc could be 
 wreaked on your network.
 
+**What is a pod?**
+If you're new to Kubernetes, you might not know what a pod is. Simply stated, a Kubernetes pod is a collection of processes that make up a container, such as:
+
+- Storage resources
+- Unique network IP address
+- Options that govern how the container should run
+
+In other words, a pod is a unit of deployment--either a single container or a number of containers working together.
+
 **What is a pod security policy?**
 
 The Kubernetes pod security policy is a resource that controls the security of a pod specification. Using 
