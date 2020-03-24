@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "International Day of Happiness"
-tags: interantional day happiness
+title: "Hands on with Ansible Collections"
+tags: ansible collections
 date: 2020-03-24
 ---
 
