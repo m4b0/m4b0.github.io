@@ -38,4 +38,4 @@ Articles
 - [From sysadmin to DevOps](https://www.redhat.com/sysadmin/sysadmin-devops)
 
 External links
-- [Calm your mind](http://dirk-loss.de/calmyourmind/) [<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png" width="20" height="20" /> Play the sound file](http://dirk-loss.de/calmyourmind/calm-your-mind_32min.mp3)
+- [Calm your mind](http://dirk-loss.de/calmyourmind/) [<img alt="Musical notes image" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png" width="10" height="10" /> Play the sound file](http://dirk-loss.de/calmyourmind/calm-your-mind_32min.mp3)
