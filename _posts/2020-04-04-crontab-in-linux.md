@@ -46,7 +46,7 @@ for the environment. Even though the path is set here, I always prepend the full
 each executable.
 
 The jobs in **cron.d** and **/etc/crontab** are system jobs, which are used usually for more than one 
-user, thus, additionally the username is needed.  **MAILTO** on the first line is optional.
+user, thus, additionally the **username** is needed.  **MAILTO** on the first line is optional.
 
 Regular users with cron access could make mistakes that, for example, might cause system resources 
 (such as memory and CPU time) to be swamped. To prevent possible misuse, the sysadmin can limit user 
