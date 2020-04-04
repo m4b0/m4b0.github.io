@@ -12,8 +12,16 @@ title: Marco Bravo's Blog
 	     		height="15">
 	</a></p>
 
-	<ul class="posts">
+    {let s = "";}
+    {% for post in site.posts %}
+      {s = s + post.tags;}
+    {% endfor %}
+    {let a = str.split(' ');
+    let unique = a.filter( onlyUnique );
+    let sorted = unique.sort();}
+    {{ sorted }}
 
+	<ul class="posts">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
