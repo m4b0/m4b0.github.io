@@ -45,8 +45,8 @@ would see if you ran the program manually from the command line. The third line 
 for the environment. Even though the path is set here, I always prepend the fully qualified path to 
 each executable.
 
-The jobs in **cron.d** and **/etc/crontab** are system jobs, which are used usually for more than one 
-user, thus, additionally the **username** is needed.
+The jobs in **cron.d** directory and **/etc/crontab** file are system jobs, which are used usually 
+for more than one user, thus, additionally the **username** is needed.
 
 Regular users with cron access could make mistakes that, for example, might cause system resources 
 (such as memory and CPU time) to be swamped. To prevent possible misuse, the sysadmin can limit user 
@@ -70,7 +70,11 @@ was shut down while you were on vacation, it would be run soon after you turn th
 once, not three times.
 
 The anacron program provides some easy options for running regularly scheduled tasks. Just install your 
-scripts in the **/etc/cron.[hourly|daily|weekly|monthly]** directories, depending how frequently they need 
+scripts in the 
+
+**/etc/cron.[hourly|daily|weekly|monthly]** 
+
+directories, depending how frequently they need 
 to be run.
 
 The **@** character is used to identify shortcuts to cron. The list below, taken from the crontab(5) man page, 
