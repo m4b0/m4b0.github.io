@@ -15,8 +15,7 @@ title: Marco Bravo's Blog
     {% for post in site.posts %}
       {% assign tags = tags | concat: post.tags %}
     {% endfor %}
-    <!-- {% assign tags = tags | uniq | sort | join: ", " %} -->
-    {% assign tags = tags | sort | join: ", " %}
+    {% assign tags = tags | uniq | sort | join: ", " %}
     Tags... {{ tags }}
 
     <br />
