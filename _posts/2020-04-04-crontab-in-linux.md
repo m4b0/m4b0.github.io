@@ -71,10 +71,7 @@ once, not three times.
 
 The anacron program provides some easy options for running regularly scheduled tasks. Just install your 
 scripts in the 
-
-** /etc/cron.[hourly|daily|weekly|monthly] ** 
-
-directories, depending how frequently they need 
+**/etc/cron.[hourly|daily|weekly|monthly]** directories, depending how frequently they need 
 to be run.
 
 The **@** character is used to identify shortcuts to cron. The list below, taken from the crontab(5) man page, 
