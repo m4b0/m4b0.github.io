@@ -13,10 +13,10 @@ title: Marco Bravo's Blog
     </a></p>
 
     {% for post in site.posts %}
-      {% assign tags = tags | append: {{ post.tags }} %}
+      {% assign tags = tags | concat: {{ post.tags }} %}
     {% endfor %}
-    {% assign tags = tags | join: " " | uniq | sort %}
-    Tags... {{ tags }}
+    {% assign tags = tags | uniq | sort | join: ", " %}
+    Tags: {{ tags }}
 
 	<ul class="posts">
 	  {% for post in site.posts %}
