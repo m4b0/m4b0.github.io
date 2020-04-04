@@ -16,7 +16,24 @@ title: Marco Bravo's Blog
       {% assign tags = tags | concat: post.tags %}
     {% endfor %}
     {% assign tags = tags | uniq | sort | join: ", " %}
-    Tags... {{ tags }}
+    Tags: {{ tags }}
+
+<h2>Tag cloud</h2>
+
+<tagcloud>
+  {% capture tags %}
+    {% for tag in site.tags %}
+      {{ tag[0] }}
+    {% endfor %}
+  {% endcapture %}
+
+  {% assign sortedTags = tags | split:" " | sort %}
+  <ul class="cloud">
+  {% for st in sortedTags %}
+    <li class="tag{{ site.tags[st].size }}">{{ st | tag_link }}</li>
+  {% endfor %}
+  </ul>
+</tagcloud>
 
     <br />
     <ul class="posts">
