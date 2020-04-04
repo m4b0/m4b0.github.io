@@ -4,15 +4,13 @@ description: >
   If you don’t know, ask – if you know, share! ~ opensource mindset 
   <img alt="Musical notes image" src="https://github.githubassets.com/images/icons/emoji/unicode/26be.png" width="15" height="15" />
   <ul class="post">
-    // initialize array
-    let s = "";
+    {let s = "";}
     {% for post in site.posts %}
-      // append new value to the string
-      s = s + post.tags;
+      {s = s + post.tags;}
     {% endfor %}
-    let a = str.split(' ');
+    {let a = str.split(' ');
     let unique = a.filter( onlyUnique );
-    let sorted = unique.sort();
+    let sorted = unique.sort();}
     {{ sorted }}
   </ul>
 theme: jekyll-theme-minimal
