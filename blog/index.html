@@ -12,14 +12,11 @@ title: Marco Bravo's Blog
 	     		height="15">
 	</a></p>
 
-    {% let s = ""; %}
     {% for post in site.posts %}
-      {% s = s + post.tags; %}
+      {% assign tags = tags | concat: post.tags %}
     {% endfor %}
-    {% let a = str.split(' ');
-    let unique = a.filter( onlyUnique );
-    let sorted = unique.sort(); %}
-    Tags: {{ sorted }}
+    {% assign tags = tags | uniq | sort %}
+    Tags: {{ tags }}
 
 	<ul class="posts">
 	  {% for post in site.posts %}
