@@ -70,7 +70,7 @@ was shut down while you were on vacation, it would be run soon after you turn th
 once, not three times.
 
 The anacron program provides some easy options for running regularly scheduled tasks. Just install your 
-scripts in the 
+scripts in the<br/>
 **/etc/cron.[hourly|daily|weekly|monthly]** directories, depending how frequently they need 
 to be run.
 
