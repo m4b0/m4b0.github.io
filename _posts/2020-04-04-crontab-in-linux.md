@@ -9,8 +9,6 @@ date: 2020-04-04
 
 The cron utility runs based on commands specified in a cron table (**crontab**).
 
-The file **/etc/crontab** can handle all cron jobs. See below an example:
-
 ```
 # crontab -e
 SHELL=/bin/bash
@@ -46,6 +44,9 @@ emails can provide the status of the cron job (backups, updates, etc.) and consi
 would see if you ran the program manually from the command line. The third line sets up the **PATH** 
 for the environment. Even though the path is set here, I always prepend the fully qualified path to 
 each executable.
+
+The jobs in **cron.d** and **/etc/crontab** are system jobs, which are used usually for more than one 
+user, thus, additionally the username is needed.  **MAILTO** on the first line is optional.
 
 Regular users with cron access could make mistakes that, for example, might cause system resources 
 (such as memory and CPU time) to be swamped. To prevent possible misuse, the sysadmin can limit user 
