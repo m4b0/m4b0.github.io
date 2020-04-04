@@ -39,5 +39,6 @@ Articles
 
 External links
 - [Calm your mind](http://dirk-loss.de/calmyourmind/) [<img alt="Musical notes image" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png" width="15" height="15" /> Play the sound file](http://dirk-loss.de/calmyourmind/calm-your-mind_32min.mp3)
-- [markdown-it](https://markdown-it.github.io/)
 - [YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+- [markdown-it](https://markdown-it.github.io/)
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
