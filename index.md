@@ -42,3 +42,4 @@ External links
 - [YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 - [markdown-it](https://markdown-it.github.io/)
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Liquid](https://shopify.github.io/liquid/)
