@@ -36,3 +36,6 @@ Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
 - [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
 - [From sysadmin to DevOps](https://www.redhat.com/sysadmin/sysadmin-devops)
+
+External links
+- [Calm your mind](http://dirk-loss.de/calmyourmind/) [:notes: Play the sound file](http://dirk-loss.de/calmyourmind/calm-your-mind_32min.mp3)
