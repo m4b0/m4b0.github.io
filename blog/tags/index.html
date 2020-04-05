@@ -16,11 +16,10 @@ title: Marco Bravo's Tags
   <div class="tags-expo-list">
     {% assign tags = site.tags | sort %}
     {% for tag in tags %}
-    ⌈
     <span style="background-color:LightBlue">
-    <a href="#{{ tag[0] | slugify }}" class="post-tag">{{ tag[0] }}⌋</a>
+    <a href="#{{ tag[0] | slugify }}" class="post-tag"> •{{ tag[0] }}</a>
     </span>
-    ⌋&nbsp;
+    &nbsp;
     {% endfor %}
   </div>
   <hr/>
