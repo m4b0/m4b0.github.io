@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2019 Was the Second Warmest Year on Record
-tags: wather temperature earth
+tags: weather temperature earth
 date: 2020-01-16
 ---
 
