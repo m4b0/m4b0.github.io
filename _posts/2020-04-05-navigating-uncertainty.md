@@ -88,8 +88,11 @@ together as a team. They are the grounding element for operating in complexity a
 Operating rhythms can come in many flavors, but work best with these bones:
 
 [0] **Daily stand-up meeting** - Achievements, Blockers, Clarifications, toDo, notEs, Funny, Goals - What did you do yesterday? What will you do today? Are there any impediments in your way? - These scrum meetings are strictly time-boxed to 15 minutes (though this may need adjusting for larger teams). This keeps the discussion brisk but relevant.
+
 [1] **A weekly action meeting** where the purpose is to identify and organize the work so we can be autonomous and have flexibility and freedom in doing our work. Action meetings also create the space to process tensions, fears, feelings, and ask for what we need. These can be done in 60 minutes or less.
+
 [2] **Ad hoc deep work sessions** — when relevant and necessary — to work uninterrupted, design, or solve problems together. Typically these sessions are 90 minutes or more.
+
 [3] **Weekly, bi-weekly, or monthly retrospectives** to learn from the work — and the way we work — so we can improve and grow. Retros can range from 60–90 minutes.
 
 **Action meetings** manage the present while we share the load and steer weekly towards desired 
@@ -104,7 +107,7 @@ As humans, we don’t like to hang out in the uncertainty of not knowing. We lik
 
 That’s why we make rules.
 
-[1 ] Small moves over big moves + [2] consent over consensus
+[1] Small moves over big moves + [2] consent over consensus
 
 As teams, we can ask ourselves:
 * Are we making small moves and steering intentionally and often toward desired outcomes?
