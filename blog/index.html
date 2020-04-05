@@ -12,6 +12,14 @@ title: Marco Bravo's Blog
 	height="15">
     </a></p>
 
+<!--
+    {% for post in site.posts %}
+      {% assign tags = tags | concat: post.tags %}
+    {% endfor %}
+    {% assign tags = tags | uniq | sort | join: ", " %}
+    Tags: {{ tags }}
+-->
+
 <a href="https://m4b0.github.io/blog/tags/">Tags</a>
 
     <br />
