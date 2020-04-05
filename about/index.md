@@ -1,6 +1,10 @@
 # Marco Bravo
 ## Montreal, QC, Canada
 
+[About.me](https://about.me/mabo)
+
+***
+
 I'm working as DevOps System Administrator for [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/), 
 my interests are related to information technology (IT), 
 in particular information security, development, operations and cloud computing.
