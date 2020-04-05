@@ -17,7 +17,7 @@ title: Marco Bravo's Tags
     {% assign tags = site.tags | sort %}
     {% for tag in tags %}
     <span style="background-color:LightBlue">
-    <a href="#{{ tag[0] | slugify }}" class="post-tag"> ➲{{ tag[0] }}</a>
+    <a href="#{{ tag[0] | slugify }}" class="post-tag"> ➲{{ tag[0] }} </a>
     </span>
     {% endfor %}
   </div>
