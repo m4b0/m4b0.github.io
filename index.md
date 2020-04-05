@@ -44,3 +44,4 @@ External links
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [Liquid](https://shopify.github.io/liquid/)
 - [HTML Entity Codes, Unicode characters and ASCII charts](https://lonewolfonline.net/html-character-codes-ascii-entity-unicode-symbols/)
+- [Use tags in Github Pages](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
