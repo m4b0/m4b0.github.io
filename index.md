@@ -47,3 +47,4 @@ External links
 - [HTML Entity Codes, Unicode characters and ASCII charts](https://lonewolfonline.net/html-character-codes-ascii-entity-unicode-symbols/)
 - [Use tags in Github Pages](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
 - [50 Inspirational (and actionable) time management quotes](https://blog.rescuetime.com/time-management-quotes/)
+- [How to remember what you read](https://blog.rescuetime.com/how-to-remember-what-you-read/)
