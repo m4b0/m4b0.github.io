@@ -48,3 +48,7 @@ External links
 - [Use tags in Github Pages](https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/)
 - [50 Inspirational (and actionable) time management quotes](https://blog.rescuetime.com/time-management-quotes/)
 - [How to remember what you read](https://blog.rescuetime.com/how-to-remember-what-you-read/): Read intentionally, take notes, build connections, apply and explain it
+- [Public Cloud Services Comparison](http://comparecloud.in/)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+
+
