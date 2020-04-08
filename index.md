@@ -50,5 +50,5 @@ External links
 - [How to remember what you read](https://blog.rescuetime.com/how-to-remember-what-you-read/): Read intentionally, take notes, build connections, apply and explain it
 - [Public Cloud Services Comparison](http://comparecloud.in/)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
-
+- [meet.jit.si](https://meet.jit.si)
 
