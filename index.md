@@ -51,4 +51,4 @@ External links
 - [Public Cloud Services Comparison](http://comparecloud.in/)
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [meet.jit.si](https://meet.jit.si)
-
+- [Internet minute 2020](https://www.allaccess.com/merge/archive/31294/infographic-what-happens-in-an-internet-minute)
