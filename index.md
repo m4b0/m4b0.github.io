@@ -5,7 +5,7 @@
 ### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
 [About](https://m4b0.github.io/about) - [Blog](https://m4b0.github.io/blog) - [LinkedIn](https://www.linkedin.com/in/marcobravo) - [Twitter](https://twitter.com/marcobravoram) - 
-[Jitsi](https://meet.jit.si) ![Jitsi](https://lh3.googleusercontent.com/anTT0a2cZpucqmZQDPbPxEvJl3lb3M81znco6C1eDkxJh-XLtnfIpQa0myuzqUfHk5WcixKD=w128-h128-e365)
+[Jitsi](https://meet.jit.si) <img alt="Jitsi meetings image" src="https://lh3.googleusercontent.com/anTT0a2cZpucqmZQDPbPxEvJl3lb3M81znco6C1eDkxJh-XLtnfIpQa0myuzqUfHk5WcixKD=w128-h128-e365" width="15" height="15" />
 
 ***
 
