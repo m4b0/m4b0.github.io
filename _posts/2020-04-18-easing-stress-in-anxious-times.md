@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easing stress in anxious times"
-tags: mindset managing stress
+tags: mindset managing stress sleep hydratation focus
 date: 2020-04-18
 ---
 
@@ -38,7 +38,7 @@ your feet are. This is a primer to mentally and physically start your day in the
 
 If you’re feeling unfocused or anxious during the day, take eight minutes and just breathe, observing your 
 passing thoughts without judgment and bringing your attention back to your breath when those thoughts grab 
-your attention. If you become distracted, re-focus back to your next breath. Try it. There’s no right or 
+your attention. **If you become distracted, re-focus back to your next breath**. Try it. There’s no right or 
 wrong way to practice.
 
 **Eat and Sleep Well**
