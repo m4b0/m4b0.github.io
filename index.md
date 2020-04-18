@@ -39,7 +39,7 @@ Articles
 - [From sysadmin to DevOps](https://www.redhat.com/sysadmin/sysadmin-devops)
 
 External links
-- [Mind Hacking](https://www.mindhacki.ng/content/)
+- [Mind Hacking](https://www.mindhacki.ng/content/) - [PDF](https://legacy.gitbook.com/download/pdf/book/jhargrave/mind-hacking)
 - [How to focus in the age of distraction](http://learningfundamentals.com.au/wp-content/uploads/Focus-mindmap-for-web.jpg)
 - [Self-meetings: Avoiding distractions in the workplace](https://effectivesoftwaredesign.com/2012/06/15/self-meetings-avoiding-distractions-in-the-workplace/)
 - [Calm your mind](http://dirk-loss.de/calmyourmind/) [<img alt="Musical notes image" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png" width="15" height="15" /> Play the sound file](http://dirk-loss.de/calmyourmind/calm-your-mind_32min.mp3)
