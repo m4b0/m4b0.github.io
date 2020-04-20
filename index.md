@@ -62,6 +62,10 @@ Quotes
 
 ➠ “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” ~ Zig Ziglar
 
+  ➠ “Lack of direction, not lack of time, is the problem.” ~ Zig Ziglar <br />
+
+  ➠ “Take the next small step” ~ Coelho <br />
+
 ➠ "While we teach, we learn" ~ Seneca
 
 ➠ "The difficult we do immediately; the impossible takes a little longer"
