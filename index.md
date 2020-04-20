@@ -4,7 +4,7 @@
 
 ### Security, DevOps, and SysAdmin in Montréal, Québec, Canada
 
-[About](https://m4b0.github.io/about) - [Blog](https://m4b0.github.io/blog) - [LinkedIn](https://www.linkedin.com/in/marcobravo) - [<img alt="Musical notes image" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png" width="15" height="15" />](/audio/enjoy.mp3) - [Twitter](https://twitter.com/marcobravoram) - 
+[About](https://m4b0.github.io/about) - [Blog](https://m4b0.github.io/blog) - [Quotes](https://m4b0.github.io/quotes) - [LinkedIn](https://www.linkedin.com/in/marcobravo) - [<img alt="Musical notes image" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png" width="15" height="15" />](/audio/enjoy.mp3) - [Twitter](https://twitter.com/marcobravoram) - 
 [Jitsi](https://meet.jit.si) <img alt="Jitsi meetings image" src="https://lh3.googleusercontent.com/anTT0a2cZpucqmZQDPbPxEvJl3lb3M81znco6C1eDkxJh-XLtnfIpQa0myuzqUfHk5WcixKD=w128-h128-e365" width="15" height="15" />
 
 ***
@@ -58,18 +58,3 @@ External links
 - [meet.jit.si](https://meet.jit.si)
 - [Internet minute 2020](https://www.allaccess.com/merge/archive/31294/infographic-what-happens-in-an-internet-minute)
 
-Quotes
-
-➠ “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” ~ Zig Ziglar
-
-  ➠ “Lack of direction, not lack of time, is the problem.” ~ Zig Ziglar <br />
-
-  ➠ “Take the next small step” ~ Coelho <br />
-
-➠ "While we teach, we learn" ~ Seneca
-
-➠ "The difficult we do immediately; the impossible takes a little longer"
-
-➠ "There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others." --Mary Shelley, The Last Man.
-
-➠ “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” ~ Gandhi
