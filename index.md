@@ -57,3 +57,10 @@ External links
 - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 - [meet.jit.si](https://meet.jit.si)
 - [Internet minute 2020](https://www.allaccess.com/merge/archive/31294/infographic-what-happens-in-an-internet-minute)
+
+Quotes
+
+➠ "While we teach, we learn" ~ Seneca <br />
+➠ "The difficult we do immediately; the impossible takes a little longer" <br />
+➠ "There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others." --Mary Shelley, The Last Man. <br />
+➠ “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” ~ Gandhi
