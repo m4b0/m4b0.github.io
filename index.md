@@ -60,7 +60,12 @@ External links
 
 Quotes
 
-➠ "While we teach, we learn" ~ Seneca <br />
-➠ "The difficult we do immediately; the impossible takes a little longer" <br />
-➠ "There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others." --Mary Shelley, The Last Man. <br />
+➠ “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” ~ Zig Ziglar
+
+➠ "While we teach, we learn" ~ Seneca
+
+➠ "The difficult we do immediately; the impossible takes a little longer"
+
+➠ "There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others." --Mary Shelley, The Last Man.
+
 ➠ “Your beliefs become your thoughts, Your thoughts become your words, Your words become your actions, Your actions become your habits, Your habits become your values, Your values become your destiny.” ~ Gandhi
