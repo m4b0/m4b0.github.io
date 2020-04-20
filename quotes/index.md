@@ -1,4 +1,4 @@
-Quotes
+# Quotes
 
 ➠ “Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.” ~ Zig Ziglar
 
