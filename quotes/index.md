@@ -1,5 +1,6 @@
 # Quotes
 
+<img src="/images/keep-calm.gif">
 
 ➠ “The mind is a wonderful servant, but a terrible master.” <br />
 ~ Robin Sharma 
