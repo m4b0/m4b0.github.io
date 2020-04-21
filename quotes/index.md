@@ -1,5 +1,9 @@
 # Quotes
 
+
+➠ “The mind is a wonderful servant, but a terrible master.” <br />
+~ Robin Sharma 
+
 ➠ “Lack of direction, not lack of time, is the problem. <br />
 We all have twenty-four hour days.” <br />
 ~ Zig Ziglar
