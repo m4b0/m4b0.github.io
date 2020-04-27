@@ -30,5 +30,5 @@ Your habits become your values, <br />
 Your values become your destiny.” <br />
 ~ Gandhi
 
-"The body achieves what the mind believes. 
+➠ "The body achieves what the mind believes. 
 Believe in yourself and the power you have to make anything possible."
