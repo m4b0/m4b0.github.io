@@ -34,3 +34,7 @@ Your values become your destiny.” <br />
 Believe in yourself and the power you have to make anything possible." <br />
 ~ [link](http://links.changethatup.com/a/680/preview/8806101/745912300/eaf23e3b00e129ad731836cf55057a7d0f8c4b7a?message_id=IjVhMzdhMDkwLTY5ZDMtMDEzOC00MmUyLTQyMDEwYTgwMGYwMkBjaGFuZ2V0aGF0dXAuY29tIg==)
 
+➠ "Tout est possible, <br />
+tout est réalisable, <br />
+c'est le jeu de la vie" <br />
+~ LE JEU DE LA VIE Chevalier & Laspalès
