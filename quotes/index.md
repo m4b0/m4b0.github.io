@@ -40,7 +40,7 @@ c'est le jeu de la vie" <br />
 ~ LE JEU DE LA VIE Chevalier & Laspalès
 
 ➠ "It is Easier to Ask for Forgiveness than Permission" <br />
-~ RADM Grace Murray Hopper
+~ RADM Grace Murray Hopper (A common piece of Pythonic wisdom)
 
 ```
 >>> import this
