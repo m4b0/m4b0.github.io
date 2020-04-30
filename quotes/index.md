@@ -42,6 +42,7 @@ c'est le jeu de la vie" <br />
 ➠ "It is Easier to Ask for Forgiveness than Permission" <br />
 ~ RADM Grace Murray Hopper (A common piece of Pythonic wisdom)
 
+➠
 ```
 >>> import this
 
