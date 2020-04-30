@@ -66,3 +66,6 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 ~ [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#id2)
+
+➠ "Thanks for my crisis, that I may emerge stronger" <br />
+~ Rich Dad
