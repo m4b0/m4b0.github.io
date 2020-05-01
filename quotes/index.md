@@ -73,3 +73,12 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ➠ "La mente es todopoderosa, aquel que domina la mente lo domina todo" <br />
 ~ Kalimán (Clem Uribe)
+
+➠ "Serenidad y paciencia... mucha paciencia" <br />
+~ Kalimán
+
+➠ "Siempre hay un camino cuando se usa el camino de la inteligencia" <br />
+~ Kalimán
+
+➠ "El valor consiste en vencer el miedo" <br />
+~ Kalimán
