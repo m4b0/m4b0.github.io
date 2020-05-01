@@ -70,3 +70,6 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ➠ "Thanks for my crisis, that I may emerge stronger" <br />
 ~ Rich Dad
+
+➠ "La mente es todopoderosa, aquel que domina la mente lo domina todo" <br />
+~ Kalimán (Clem Uribe)
