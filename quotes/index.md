@@ -82,3 +82,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ➠ "El valor consiste en vencer el miedo" <br />
 ~ Kalimán
+
+➠ "Don't wait for extraordinary opportunities. <br />
+Seize common occasions and make them great" <br />
+~ Orison Swett Marden
