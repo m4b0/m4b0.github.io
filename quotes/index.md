@@ -86,3 +86,14 @@ Namespaces are one honking great idea -- let's do more of those!
 ➠ "Don't wait for extraordinary opportunities. <br />
 Seize common occasions and make them great" <br />
 ~ Orison Swett Marden
+
+➠ "Your loops create your thoughts. <br />
+Your thoughts create your actions. <br />
+Your actions create your life. <br />
+Therefore, the quality of our loops determine the quality of our lives. <br />
+```
+Fix your loops,
+Fix your life.
+```"
+~ Mind Hacking
+
