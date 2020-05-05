@@ -42,7 +42,7 @@ c'est le jeu de la vie" <br />
 ➠ "It is Easier to Ask for Forgiveness than Permission" <br />
 ~ RADM Grace Murray Hopper (A common piece of Pythonic wisdom)
 
-➠
+➠ The Zen of Python
 ```
 >>> import this
 
@@ -97,7 +97,7 @@ Fix your life.
 ```
 ~ Mind Hacking
 
-Go Proverbs
+➠ Go Proverbs
 ```
 Simple, Poetic, Pithy
 Don't communicate by sharing memory, share memory by communicating.
