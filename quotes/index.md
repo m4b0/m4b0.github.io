@@ -150,7 +150,7 @@ Treat logs as event streams
 XII. Admin processes
 Run admin/management tasks as one-off processes
 ```
-~ [The Twelve Factors](https://12factor.net/)
+~ [The Twelve Factors](https://12factor.net/), <br />
 [Twelve-factor app development on Google Cloud](https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp)
 
 ➠ Manifesto for Agile Software Development
