@@ -169,3 +169,5 @@ the right, we value the items on the left more.
 ```
 ~ [Manifesto for Agile Software Development](https://agilemanifesto.org)
 
+➠ “Talent wins games, but teamwork and intelligence wins championships.” <br />
+~ Michael Jordan
