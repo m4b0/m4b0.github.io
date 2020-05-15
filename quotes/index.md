@@ -174,3 +174,8 @@ the right, we value the items on the left more.
 
 ➠ "The power of imagination makes us infinite." <br />
 ~ John Muir
+
+➠ "Consciously reshape your thoughts, and you can actively reshape the world around you. <br />
+Once you think about it, anything is possible." <br />
+~ Mind Hacking
+
