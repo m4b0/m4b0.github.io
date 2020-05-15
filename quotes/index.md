@@ -171,3 +171,6 @@ the right, we value the items on the left more.
 
 ➠ “Talent wins games, but teamwork and intelligence wins championships.” <br />
 ~ Michael Jordan
+
+➠ "The power of imagination makes us infinite." <br />
+~ John Muir
