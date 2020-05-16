@@ -187,3 +187,5 @@ If you can't dream up worlds that might be, then you are limited to the worlds o
 then realization." <br />
 ~ Mind Hacking
 
+➠ "Any sufficiently advanced technology is indistinguishable from magic." <br />
+~ Arthur C. Clarke, "Hazards of Prophecy: The Failure of Imagination"
