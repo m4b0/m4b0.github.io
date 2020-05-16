@@ -179,3 +179,7 @@ the right, we value the items on the left more.
 Once you think about it, anything is possible." <br />
 ~ Mind Hacking
 
+➠ "If you can't conceive of things that don't exist, you can't create anything new. <br />
+If you can't dream up worlds that might be, then you are limited to the worlds other people describe." <br />
+~ Robert and Michele Root-Bernstein, Sparks of Genius
+
