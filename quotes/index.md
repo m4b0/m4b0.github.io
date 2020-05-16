@@ -183,3 +183,7 @@ Once you think about it, anything is possible." <br />
 If you can't dream up worlds that might be, then you are limited to the worlds other people describe." <br />
 ~ Robert and Michele Root-Bernstein, Sparks of Genius
 
+➠ "Imagination, <br />
+then realization." <br />
+~ Mind Hacking
+
