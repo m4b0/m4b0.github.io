@@ -189,3 +189,6 @@ then realization." <br />
 
 ➠ "Any sufficiently advanced technology is indistinguishable from magic." <br />
 ~ Arthur C. Clarke, "Hazards of Prophecy: The Failure of Imagination"
+
+➠ "Life begins at the end of your comfort zone" <br />
+~ Neale Donald Walsch
