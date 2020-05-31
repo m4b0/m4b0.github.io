@@ -2,6 +2,9 @@
 
 <img src="/images/keep-calm.gif">
 
+➠ “Challenges are what make life interesting; overcoming them is what makes life meaningful.” <br />
+~ Joshua J. Marin
+
 ➠ “The mind is a wonderful servant, but a terrible master.” <br />
 ~ Robin Sharma 
 
