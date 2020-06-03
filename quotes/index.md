@@ -2,6 +2,9 @@
 
 <img src="/images/keep-calm.gif">
 
+➠ “Don't think, just do.” <br />
+~ Horace
+
 ➠ “Challenges are what make life interesting; overcoming them is what makes life meaningful.” <br />
 ~ Joshua J. Marin
 
