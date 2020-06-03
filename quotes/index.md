@@ -195,3 +195,7 @@ then realization." <br />
 
 ➠ "Life begins at the end of your comfort zone" <br />
 ~ Neale Donald Walsch
+
+➠ "Some people feel the rain. Others just get wet" <br />
+~ Bob Marley
+
