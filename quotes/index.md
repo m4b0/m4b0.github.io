@@ -15,10 +15,14 @@
 We all have twenty-four hour days.” <br />
 ~ Zig Ziglar
 
-➠ “When in doubt, just take the next small step” <br />
+➠ “When in doubt, just take the next small step.” <br />
 ~ Paulo Coelho
 
-➠ "While we teach, we learn" ~ Seneca
+➠ "While we teach, we learn." <br />
+~ Seneca
+
+➠ "Patience, persistence and perspiration make an unbeatable combination for success.” <br />
+~ Napoleon Hill
 
 ➠ "The difficult we do immediately; <br />
 the impossible takes a little longer"
