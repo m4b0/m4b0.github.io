@@ -2,6 +2,10 @@
 
 <img src="/images/keep-calm.gif">
 
+
+➠ “It's not how good you are, it's how good you want to be." <br />
+Paul Arden
+
 ➠ “Don't think, just do.” <br />
 ~ Horace
 
