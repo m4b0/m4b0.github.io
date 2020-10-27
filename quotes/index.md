@@ -210,3 +210,6 @@ then realization." <br />
 ➠ "Some people feel the rain. Others just get wet" <br />
 ~ Bob Marley
 
+➠ "Challenges are what make life interesting; overcoming them is what makes life meaningful." <br />
+~ Joshua J. Marine
+
