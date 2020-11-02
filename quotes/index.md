@@ -242,3 +242,6 @@ then realization." <br />
 ➠ "22. If it were easy, it would have been done already." <br />
 ➠ "23. The world's most precious resource is the persistent and passionate human mind." <br />
 ~ Peter H. Diamandis 
+
+➠ "Failing Is Learning; Fail Fast to Learn Faster" <br />
+~ Daniel Burrus
