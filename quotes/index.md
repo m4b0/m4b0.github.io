@@ -216,3 +216,29 @@ then realization." <br />
 ➠ "Success each day should be judged by the seeds sown, not the harvest reaped." <br />
 ~ John C. Maxwell
 
+[Peter's laws 2020](https://www.diamandis.com/hs-fs/hubfs/peters-laws-1.jpg)
+[Peter's laws 2012](https://www.singularityweblog.com/peter-diamandis-laws-the-creed-of-the-persistent-and-passionate-mind/)
+➠ "01. If anything can go wrong, Fix it!!... to hell with Murphy" <br />
+➠ "02. The best way to predict the future is to create it yourself!" <br />
+➠ "03. The world's biggest problems are the world's biggest opportunities." <br />
+➠ "04. The best way to become a billionaire is to help a billion people" <br />
+➠ "05. You get what you incentivize" <br />
+➠ "06. The day before something is a breakthrough it's a crazy idea." <br />
+➠ "07. Without a target, you'll miss it every time." <br />
+➠ "08. If you can't measure it, you can't improve it." <br />
+➠ "09. Fail early, fail often, fail forward!" <br />
+➠ "10. Multiple projects lead to multiple successes." <br />
+➠ "11. Start at the top then work your way up." <br />
+➠ "12. Do it by the book... but be the author!" <br />
+➠ "13. 'No' simply means begin again at one level higher." <br />
+➠ "14. Wen forced to compromise, ask for more." <br />
+➠ "15. If you can't win, change the rules." <br />
+➠ "16. If you can't change the rules, then ignore them." <br />
+➠ "17. When faced without a challenge, make one." <br />
+➠ "18. Don't walk when you can run." <br />
+➠ "19. The ratio of something to nothing is infinite." <br />
+➠ "20. If you think it is impossible, then it is... for you." <br />
+➠ "21. An expert is someone who can tell you exactly how it can't be done." <br />
+➠ "22. If it were easy, it would have been done already." <br />
+➠ "23. The world's most precious resource is the persistent and passionate and human mind." <br />
+~ Peter H. Diamandis 
