@@ -218,6 +218,7 @@ then realization." <br />
 
 [Peter's laws 2020](https://www.diamandis.com/hs-fs/hubfs/peters-laws-1.jpg) <br />
 [Peter's laws 2012](https://www.singularityweblog.com/peter-diamandis-laws-the-creed-of-the-persistent-and-passionate-mind/) <br />
+```
 ➠ "01. If anything can go wrong, Fix it!!... to hell with Murphy" <br />
 ➠ "02. The best way to predict the future is to create it yourself!" <br />
 ➠ "03. The world's biggest problems are the world's biggest opportunities." <br />
@@ -241,6 +242,7 @@ then realization." <br />
 ➠ "21. An expert is someone who can tell you exactly how it can't be done." <br />
 ➠ "22. If it were easy, it would have been done already." <br />
 ➠ "23. The world's most precious resource is the persistent and passionate human mind." <br />
+```
 ~ Peter H. Diamandis 
 
 ➠ "Failing Is Learning; Fail Fast to Learn Faster" <br />
