@@ -240,5 +240,5 @@ then realization." <br />
 ➠ "20. If you think it is impossible, then it is... for you." <br />
 ➠ "21. An expert is someone who can tell you exactly how it can't be done." <br />
 ➠ "22. If it were easy, it would have been done already." <br />
-➠ "23. The world's most precious resource is the persistent and passionate and human mind." <br />
+➠ "23. The world's most precious resource is the persistent and passionate human mind." <br />
 ~ Peter H. Diamandis 
