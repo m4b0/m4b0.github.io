@@ -213,3 +213,6 @@ then realization." <br />
 ➠ "Challenges are what make life interesting; overcoming them is what makes life meaningful." <br />
 ~ Joshua J. Marine
 
+➠ "Success each day should be judged by the seeds sown, not the harvest reaped." <br />
+~ John C. Maxwell
+
