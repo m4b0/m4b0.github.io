@@ -247,3 +247,6 @@ then realization." <br />
 
 ➠ "Failing Is Learning; Fail Fast to Learn Faster" <br />
 ~ Daniel Burrus
+
+➠ "Respect each other, question everything, be creative and get things done." <br />
+~ Guiding principles
