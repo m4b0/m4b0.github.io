@@ -2,6 +2,8 @@
 
 <img src="/images/keep-calm.gif">
 
+➠ “Imperfection is beauty, madness is genius and it’s better to be absolutely ridiculous than absolutely boring.” <br />
+~ Marilyn Monroe
 
 ➠ “It's not how good you are, it's how good you want to be." <br />
 Paul Arden
