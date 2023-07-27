@@ -5,7 +5,7 @@
 
 ***
 
-I'm working as DevOps System Administrator for [OVHcloud](https://www.ovhcloud.com/en-ca/about-us/), 
+I'm working as DevOps & Infrastructure Specialist for [National Film Board of Canada](https://www.nfb.ca/), 
 my interests are related to information technology (IT), 
 in particular information security, development, operations and cloud computing.
 
