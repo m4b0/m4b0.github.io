@@ -30,13 +30,14 @@ Experience
 - Network automation
 
 Interests
-- DevOps, Ansible, Open source initiatives
+- DevOps, DevSecOps, Cloud Native, Open source initiatives
 - I like running long distances (10k, 21k, 42k) and Hiking
 
 Articles
 - [Top 5 configuration management tools](https://opensource.com/article/18/12/configuration-management-tools)
 - [How to use Ansible to document procedures](https://opensource.com/article/19/4/ansible-procedures)
 - [From sysadmin to DevOps](https://www.redhat.com/sysadmin/sysadmin-devops)
+- [A Linux sysadmin's career journey from beginner to expert](https://www.redhat.com/sysadmin/sysadmin-journey-beginner-expert)
 
 External links
 - [Mind Hacking](https://www.mindhacki.ng/content/) - [PDF](https://legacy.gitbook.com/download/pdf/book/jhargrave/mind-hacking)
